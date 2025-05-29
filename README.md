@@ -49,11 +49,12 @@ We used a **Convolutional Neural Network (CNN)** with the following architecture
 
 ### 📈 Accuracy Graph
 
-![Accuracy Graph](accuracy_plot.png)
+![image](https://github.com/user-attachments/assets/6222aeca-c7f9-437a-9726-330a546d9a6c)
+
 
 ### 📉 Loss Graph
 
-![Loss Graph](loss_plot.png)
+![image](https://github.com/user-attachments/assets/a0b83984-3ff5-4850-a3bf-4367ba90cd37)
 
 ---
 
